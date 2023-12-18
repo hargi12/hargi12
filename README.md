@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hargi12
 - 👀 I’m interested in digital health interventions, machine learning and software development in python, R and Kotlin.
-- 🌱 I’m currently learning advanced data analytics 
-- 💞️ I’m looking to collaborate on health related projects.
+- 🌱 I’m currently working on advanced data analytics projects. 
+- 💞️ I’m available to collaborate on health related projects.
 - 📫 You can reach me via email gichuhiaaron[at]gmail[dot]com
 
 <!---
